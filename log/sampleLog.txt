@@ -1,0 +1,22 @@
+[2024-05-29 10:15:32] [INFO] [Server] Server started successfully.
+[2024-05-29 10:16:04] [ERROR] [Database] Connection failed with error code 500. Attempt to reconnect in 30 seconds.
+[2024-05-29 10:17:50] [WARNING] [Auth] User login attempt failed for user 'john_doe'. Incorrect password.
+[2024-05-29 10:18:12] [INFO] [Server] New connection from 192.168.1.1.
+[2024-05-29 10:19:45] [ERROR] [API] API request returned error 404: Not Found. Endpoint /api/v1/resource not available.
+[2024-05-29 10:21:30] [ERROR] [Server] Unexpected error occurred with error code 500. Stack trace: Exception in thread "main" java.lang.NullPointerException.
+[2024-05-29 10:23:22] [INFO] [Server] Server stopped.
+[2024-05-29 10:24:15] [INFO] [Database] Database backup completed successfully.
+[2024-05-29 10:25:48] [ERROR] [Auth] Authentication failed for user admin with error code 401. Invalid token.
+[2024-05-29 10:26:10] [INFO] [System] System maintenance scheduled for 2024-05-30 02:00:00.
+[2024-05-29 10:27:34] [DEBUG] [Cache] Cache miss for key 'user_session_1234'.
+[2024-05-29 10:28:45] [INFO] [Server] High memory usage detected. Current usage: 85%.
+[2024-05-29 10:29:57] [ERROR] [Network] Network timeout error 408. Unable to reach gateway 192.168.1.254.
+[2024-05-29 10:30:15] [INFO] [Server] Server restarted. Uptime reset.
+[2024-05-29 10:31:12] [WARNING] [Security] Multiple failed login attempts detected from IP 203.0.113.45.
+[2024-05-29 10:32:25] [ERROR] [Database] Query execution failed with error code 500. SQL syntax error near 'WHERE'.
+[2024-05-29 10:33:37] [INFO] [Backup] Incremental backup completed. Files updated: 45.
+[2024-05-29 10:34:50] [ERROR] [Server] Critical error with error code 500. System shutdown initiated.
+[2024-05-29 10:35:48] [INFO] [Admin] User 'admin' logged out.
+[2024-05-29 10:36:55] [ERROR] [Auth] Permission denied for user 'guest' with error code 403. Access to /admin restricted.
+[2024-05-29 10:37:12] [INFO] [System] Daily log rotation completed.
+[2024-05-29 10:36:55] [ERROR] [Auth] Permission denied for user 'guest' ON_FAILURE. Access to /admin restricted.

@@ -1,0 +1,10 @@
+Error: Something went wrong
+[2024-05-29 10:16:04] [ERROR] [Database] Connection failed with error code 500. Attempt to reconnect in 30 seconds.
+[2024-05-29 10:19:45] [ERROR] [API] API request returned error 404: Not Found. Endpoint /api/v1/resource not available.
+[2024-05-29 10:25:48] [ERROR] [Auth] Authentication failed for user admin with error code 401. Invalid token.
+[2024-05-29 10:29:57] [ERROR] [Network] Network timeout error 408. Unable to reach gateway 192.168.1.254.
+[2024-05-29 10:32:25] [ERROR] [Database] Query execution failed with error code 500. SQL syntax error near 'WHERE'.
+[2024-05-29 10:21:30] [ERROR] [Server] Unexpected error occurred with error code 500. Stack trace: Exception in thread "main" java.lang.NullPointerException.
+[2024-05-29 10:34:50] [ERROR] [Server] Critical error with error code 500. System shutdown initiated.
+[2024-05-29 10:36:55] [ERROR] [Auth] Permission denied for user 'guest' with error code 403. Access to /admin restricted.
+[2024-05-29 10:36:55] [ERROR] [Auth] Permission denied for user 'guest' ON_FAILURE. Access to /admin restricted.
